@@ -4,6 +4,16 @@
   "private": true,
   "main": "public/electron.js",
   "homepage": "./",
+  "description": "Diogo Alves Personal Web Page",
+  "author": "Diogo Alves",
+  "build": {
+    "win": {
+      "icon": "build/favicon.png"
+    },
+  
+    "productName": "Diogo Alves Personal Web Page",
+    "icon": "build/favicon.png"
+  },
   "dependencies": {
     "electron-is-dev": "^2.0.0",
     "@testing-library/jest-dom": "^5.16.5",
