@@ -2,7 +2,7 @@
 
 This repository contains the configurations necessary to turn my personal web page (https://github.com/di0g0a1v3s/personal-website) into a native Desktop app using the <br>Electron</br> framework.
 
-##Instructions
+## Instructions
 
 ### npm install
 
